@@ -1,3 +1,2 @@
 line one
 second line
-third commit
