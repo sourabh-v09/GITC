@@ -1,2 +1,6 @@
 dgsbfjhhdyfg
+<<<<<<< HEAD
 dfjhbdsfjhbdsfhvbdfhbdfe
+=======
+dgfsdv
+>>>>>>> freature
