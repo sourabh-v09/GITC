@@ -1,0 +1,2 @@
+stash message
+second line
