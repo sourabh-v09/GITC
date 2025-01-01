@@ -1,2 +1,7 @@
 first line
+<<<<<<< HEAD
 second line 
+=======
+second line
+third line 
+>>>>>>> freature

@@ -1,2 +1,5 @@
 stash message
+<<<<<<< HEAD
 second line
+=======
+>>>>>>> freature
